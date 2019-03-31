@@ -3,6 +3,7 @@ TicTacToe project in React
 ## TO-DO
 - Mark winning row
 - Testing
+- Styling
 - ???
 
 ![preview](https://i.imgur.com/JePl2ly.png)
