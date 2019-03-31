@@ -1,3 +1,12 @@
+TicTacToe project in React
+
+## TO-DO
+- Mark winning row
+- Testing
+- ???
+
+![preview](https://i.imgur.com/JePl2ly.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
